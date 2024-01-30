@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋,Eu sou João Victor</h1>
-<h3 align="center">Desenvolvedor e estudante de analise e desenvolvimento de sistemas</h3>
+<h3 align="center">Desenvolvedor</h3>
 
 - 🌱 Estou atualmente me aperfeiçoando em **Back-End**
 
