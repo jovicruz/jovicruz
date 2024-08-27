@@ -1,8 +1,8 @@
-<h1 align="center">Desenvolvedor Back-End</h1>
+<h1 align="center">Back-End Developer</h1>
 
 ###
 
-<h4 align="center">🛠 Principais Linguagens e Ferramentas 🛠</h4>
+<h4 align="center">🛠 Main Languages & Tools 🛠</h4>
 
 ###
 
