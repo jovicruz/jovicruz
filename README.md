@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,react,tailwind,postgresql)]()
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,php,javascript,react,tailwind,postgresql)]()
 </div>
 
 ###
